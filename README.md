@@ -1,2 +1,1 @@
-# printf
-First alx team project
+0x11.C - printf project
